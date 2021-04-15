@@ -8,7 +8,7 @@
 
 ## 📃 Sobre
 
-O projeto **Noticias Cidade** é um portal de nóticias que foi criado dentro do curso de **Desenvolvimento Web** na plataforma da Udemy, ministrado pelos professores Jamilton Damasceno e Jorge Sant Anna com o objetivo de colocarmos em prática todo conteúdo estudando dentro do módulo de HTML e CSS.
+O projeto **Noticias Cidade** é um portal de nóticias que foi criado dentro do curso de **Desenvolvimento Web** na plataforma da Udemy, ministrado pelos professores Jamilton Damasceno e Jorge Sant Anna com o objetivo de colocarmos em prática todo conteúdo estudado dentro do módulo de HTML e CSS.
 
 --- 
 
